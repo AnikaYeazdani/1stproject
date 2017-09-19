@@ -1,2 +1,1 @@
-ddgh 
-f y 
+this is an android project
